@@ -38,7 +38,7 @@ underscores shouldn't be used in the middle of the word, if we need to highlight
 > Example:
 > [A Film Photographer(www.afilmphotographer.com)
 ### 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-- symbols should be followed by space
+- symbols should be followed by space  
 '-'  
 '*'  
 '+'  
