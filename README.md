@@ -1,18 +1,18 @@
 # reading-notes-bootcamp
 ## Read: 01 - Learning Markdown
 ### 1. What is Markdown?
--lightweight markup language
--can be used to add formatting elements to plain text documents
--has been created by John Gruber in 2004
--one of the world's most popular markup languages
--it is different editor than **WYSIWYG (described below)**:
-  >as example it can be Microsoft Word and its predecessors
-  >it contains buttons that helps to format text by clicking
-  >changes in __WYSIWYG__ are visible immediately
--markdown requires syntax added to the text when we want to indicate which word and phrases should look different
--example of different *syntax*:
-  > # - we use it if we want to denote a heading
-  > ** to emphasise text as bold
+- lightweight markup language <br>
+- can be used to add formatting elements to plain text documents
+- has been created by John Gruber in 2004
+- one of the world's most popular markup languages
+- it is different editor than **WYSIWYG (described below)**:
+  + as example it can be Microsoft Word and its predecessors
+  + it contains buttons that helps to format text by clicking
+  + changes in __WYSIWYG__ are visible immediately
+- markdown requires syntax added to the text when we want to indicate which word and phrases should look different
+- example of different *syntax*:
+  + # - we use it if we want to denote a heading
+  + ** to emphasise text as bold
 -can be added to plain text as well as via Markdown apps for most of the operational systems 
 -there are several web-based apps designed specifically for writing in Markdown 
 -(some applications don't support preview of formatted documents)
