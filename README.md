@@ -11,16 +11,16 @@
   + changes in __WYSIWYG__ are visible immediately
 - markdown requires syntax added to the text when we want to indicate which word and phrases should look different
 - example of different *syntax*:
-  + # - we use it if we want to denote a heading
-  + ** to emphasise text as bold
--can be added to plain text as well as via Markdown apps for most of the operational systems 
--there are several web-based apps designed specifically for writing in Markdown 
--(some applications don't support preview of formatted documents)
--Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown file can be read even if it is not rendered
+  + **#** - we use it if we want to denote a heading
+  + ** -  to emphasise text as bold
+- can be added to plain text as well as via Markdown apps for most of the operational systems 
+- there are several web-based apps designed specifically for writing in Markdown 
+- (some applications don't support preview of formatted documents)
+- Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown file can be read even if it is not rendered
 ### 2. Why do we use Markdown?
--can be used for everything (websites, documents, notes, books, presentations, email messages and tech documentation)
--is portable - can be opened in any virtual application that supports Markdown (can be used between different Markdown apps)
--it is platform independent - Markdown formatted text can be created on any device running any operating system
+- can be used for everything (websites, documents, notes, books, presentations, email messages and tech documentation)
+- is portable - can be opened in any virtual application that supports Markdown (can be used between different Markdown apps)
+- it is platform independent - Markdown formatted text can be created on any device running any operating system
 - is future proof and in some way timeless, when other apps are outdated or aged Markdown will still allow reading Markdown-formatted text using a text editing application. That's important consideration for books, thesis and other milestone/important documents that must be preserved
 - it is everywhere, e.g. Reddit, Github
 ### 3. What symbol will create a heading Markdown?
