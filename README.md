@@ -18,7 +18,8 @@ My afterwork-passion is film photography. I use 35 mm camera (Pentax ME Super) a
 Here is one of my fav photos 
 !(Lauren looking at the window)[1ed7b3a0-a3ba-11ec-bd71-1913ce2c175c_gallery]
 
-And here is link to my [**GitHub Page**](https://yagagauaganek.github.io/reading-notes-bootcamp/)
+**And here is link to my [**GitHub Page**](https://yagagauaganek.github.io/reading-notes-bootcamp/)**
+
 ## Read: 01 - Learning Markdown
 ### 1. What is Markdown?
 - lightweight markup language <br>
