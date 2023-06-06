@@ -46,6 +46,11 @@
 - git add . (will commit all uncommited files)
 - git commit -m "update" (will commit with a message)
 - git push
+### to opwn VSC via Terminal:
+~pwd
+*displays name of the folder*
+~cd reading-notes-bootcamp
+Reading-notes-bootcamp git: (main) code .
 
 Git cloning and pushing manual to be found [Here](https://pages.github.com/)
 [Basic Linux Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
