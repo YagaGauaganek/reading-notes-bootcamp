@@ -30,7 +30,7 @@
   b) How many do we need to create the smallest heading?  
 6 - ######  
 ### 4. When making text **bold** or *italicized* for emphasis, it is best practice to use which symbol?
-- '*word*/_word_' - emphasis text and render it as italic  
+- * word */_ word _' - emphasis text and render it as italic  
 - '**word**/__word__' - renders text as bold emphasis  
 underscores shouldn't be used in the middle of the word, if we need to highlight letters in the middle of the world , we should use asterix.
 ### 5. How do you create a link with a Markdown?
