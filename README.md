@@ -71,7 +71,7 @@ underscores shouldn't be used in the middle of the word, if we need to highlight
 ### What is Growth Mindset?
 As per definition a growth mindset let us belive that success on time and effort we put in. People wth Growth midset believe that all they do, their soft and hard skills can be always improved . Their action to grow is based on effort and persistance.  Growth mindset helps to embrace chalanges persist through obstacles, learn from criticism and seek out inspiration in others’ success.  The opposite of a growth mindset is a fixed mindset.
 
-![GrowthMindset](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/7321d7a4-506d-40fd-93bc-28aa074dd4a8)
+![GrowthMindset](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/7321d7a4-506d-40fd-93bc-28aa074dd4a8)  
 [^1]Source:[istockphoto](https://www.istockphoto.com/th/%E0%B9%80%E0%B8%A7%E0%B8%84%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/growth-mindset-vs-fixed-mindset-%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A-gm1404229409-456509537)
 #### 3 reminders to myself of how to keep self in a growth mindset
 - short-term frustration will likely result in long-term improvement of my abilities
