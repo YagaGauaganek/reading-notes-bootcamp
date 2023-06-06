@@ -17,6 +17,8 @@ Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*. I am C
 My afterwork-passion is film photography. I use 35 mm camera (Pentax ME Super) and Medium Format Camera (Pentax 6x7). My portfolio can be found on [Instagram](https://www.instagram.com/jagagalganek/?hl=en)  
 Here is one of my fav photos 
 !(Lauren looking at the window)[1ed7b3a0-a3ba-11ec-bd71-1913ce2c175c_gallery]
+
+And here is link to my [**GitHub Page**](https://yagagauaganek.github.io/reading-notes-bootcamp/)
 ## Read: 01 - Learning Markdown
 ### 1. What is Markdown?
 - lightweight markup language <br>
