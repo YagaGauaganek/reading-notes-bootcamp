@@ -9,6 +9,8 @@
   - When making text **bold** or *italicized* for emphasis, it is best practice to use which symbol?
   - How do you create a link with a Markdown?
   - What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+- Growth Mindset
+  - What is Growth Mindset
 
 ***
 ## Brief Intro
@@ -59,11 +61,19 @@ underscores shouldn't be used in the middle of the word, if we need to highlight
 ### 5. How do you create a link with a Markdown?
 - enclose the link in text brackets (e.g., [A Film Photographer]) and then follow immediately with the URL in parentheses (www.afilmphotographer.com). 
 > Example:
-> - [A Film Photographer](www.afilmphotographer.com)
-> - <www.afilmphotographer.com>  
+> - [A Film Photographer](www.afilmphotographer.com)  
+
 ### 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 - symbols should be followed by space  
 '-'  
 '*'  
 '+'  
 
+## Growth Mindset
+### What is Growth Mindset?
+As per definition a growth mindset let us belive that success on time and effort we put in. People wth Growth midset believe that all they do, their soft and hard skills can be always improved . Their action to grow is based on effort and persistance.  Growth mindset helps to embrace chalanges persist through obstacles, learn from criticism and seek out inspiration in others’ success.  The opposite of a growth mindset is a fixed mindset.
+
+#### 3 reminders to myself of how to keep self in a growth mindset
+- short-term frustration will likely result in long-term improvement of my abilities
+- result from determination and hard work far outweigh anything that devilish chimp has to offer
+- it will help put things in perspective
