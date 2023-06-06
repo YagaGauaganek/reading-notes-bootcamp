@@ -103,9 +103,9 @@ imagine.
 > primarily used to point to an existing repo and make a clone or copy of that repo at in a new 
 > directory, at another location.The original repository can be located on the local filesystem or on 
 > remote machine accessible supported protocols.
-3. What is the command to track and stage files?
+3. What is the command to track and stage files?  
 'git status'
-4. What is the command to take a snapshot of your changed files?
+4. What is the command to take a snapshot of your changed files?  
 'git commit' that action cane be *labeled* via e.g., 'git commit -m 'update'
-5. What is the command to send your changed files to Github?
+5. What is the command to send your changed files to Github?  
 'git add'
