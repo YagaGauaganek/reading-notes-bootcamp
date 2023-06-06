@@ -59,7 +59,7 @@ underscores shouldn't be used in the middle of the word, if we need to highlight
 - enclose the link in text brackets (e.g., [A Film Photographer]) and then follow immediately with the URL in parentheses (www.afilmphotographer.com). 
 > Example:
 > - [A Film Photographer](www.afilmphotographer.com)
-> - <www.afilmphotographer.com>
+> - <www.afilmphotographer.com>  
 ### 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 - symbols should be followed by space  
 '-'  
