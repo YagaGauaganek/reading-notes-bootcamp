@@ -48,10 +48,10 @@
 - git commit -m "update" (will commit with a message)
 - git push
 ### How to open VSC via Terminal:
-~pwd
-*displays name of the folder*
-~cd reading-notes-bootcamp
-Reading-notes-bootcamp git: (main) code .
+~pwd  
+*displays name of the folder*  
+~cd reading-notes-bootcamp  
+reading-notes-bootcamp git: (main) code .  
 ### Creating folder:
 - to store your websites
 - save files in appropriate folder or subfolders within the main website folder
@@ -91,3 +91,21 @@ imagine.
 - touch new-project/newfile.md - creates a file newfile.md within 'new-project'
 - cd .. - goes back from a folder to the folder before that
 - ls projects/new-project - will list all the files and directories in the 'projects/new-project directory'.
+## Read 03: Revision and the Cloud
+### Questions and Answers:
+1. What is Version Control?
+> Version control is a system that records changes to a file 
+> or set of files over time so that you can recall specific versions later.
+> It allows you to revert selected files back to a previous state, revert the entire project back to a
+> previous state, compare changes over time, see who last modified something that might be causing a 
+> problem, who introduced an issue and when, and more.
+2. What is cloning in Git?
+> primarily used to point to an existing repo and make a clone or copy of that repo at in a new 
+> directory, at another location.The original repository can be located on the local filesystem or on 
+> remote machine accessible supported protocols.
+3. What is the command to track and stage files?
+'git status'
+4. What is the command to take a snapshot of your changed files?
+'git commit' that action cane be *labeled* via e.g., 'git commit -m 'update'
+5. What is the command to send your changed files to Github?
+'git add'
