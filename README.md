@@ -24,11 +24,11 @@
 - is future proof and in some way timeless, when other apps are outdated or aged Markdown will still allow reading Markdown-formatted text using a text editing application. That's important consideration for books, thesis and other milestone/important documents that must be preserved
 - it is everywhere, e.g. Reddit, Github
 ### 3. What symbol will create a heading Markdown?
-**hashtag - #**
-  a) How many do we need to create the largest heading?
-1 - #
-  b) How many do we need to create the smallest heading?
-6 - ######
+**hashtag - #**  
+  a) How many do we need to create the largest heading?  
+1 - #  
+  b) How many do we need to create the smallest heading?  
+6 - ######  
 ### 4. When making text **bold** or *italicized* for emphasis, it is best practice to use which symbol?
 *word*/_word_ - emphasis text and render it as italic.
 **word**/__word__ - renders text as bold emphasis. 
