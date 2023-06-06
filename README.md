@@ -17,7 +17,7 @@ Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*. I am C
 My afterwork-passion is film photography. I use 35 mm camera (Pentax ME Super) and Medium Format Camera (Pentax 6x7). My portfolio can be found on [Instagram](https://www.instagram.com/jagagalganek/?hl=en)  
 Here is one of my fav photos  
 
-![Polly](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/1b1dc9cc-c0c3-46a7-b1d8-b645b4f80cf6)
+![Portrait of Polly unedited](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/1b1dc9cc-c0c3-46a7-b1d8-b645b4f80cf6)
 
    **And here is link to my [**GitHub Page**](https://yagagauaganek.github.io/reading-notes-bootcamp/)**
 
