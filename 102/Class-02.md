@@ -104,8 +104,8 @@ imagine.
 > directory, at another location.The original repository can be located on the local filesystem or on 
 > remote machine accessible supported protocols.
 3. What is the command to track and stage files?  
-'git status'
+'git add'
 4. What is the command to take a snapshot of your changed files?  
 'git commit' that action cane be *labeled* via e.g., 'git commit -m 'update'
 5. What is the command to send your changed files to Github?  
-'git add'
+'git push'
