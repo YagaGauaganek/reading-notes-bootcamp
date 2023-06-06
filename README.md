@@ -34,12 +34,12 @@
 **word**/__word__ - renders text as bold emphasis. 
 underscores shouldn't be used in the middle of the word, if we need to highlight letters in the middle of the world , we should use asterix.
 ### 5. How do you create a link with a Markdown?
--enclose the link in text brackets (e.g., [A Film Photographer]) and then follow immediately with the URL in parentheses (www.afilmphotographer.com). 
+- enclose the link in text brackets (e.g., [A Film Photographer]) and then follow immediately with the URL in parentheses (www.afilmphotographer.com). 
 > Example:
 > [A Film Photographer(www.afilmphotographer.com)
 ### 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 - symbols should be followed by space
-'-'
-'*'
-'+'
+'-'  
+'*'  
+'+'  
 
