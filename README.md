@@ -24,7 +24,7 @@
 - is future proof and in some way timeless, when other apps are outdated or aged Markdown will still allow reading Markdown-formatted text using a text editing application. That's important consideration for books, thesis and other milestone/important documents that must be preserved
 - it is everywhere, e.g. Reddit, Github
 ### 3. What symbol will create a heading Markdown?
-hashtag - #
+**hashtag - #**
   a) How many do we need to create the largest heading?
 1 - #
   b) How many do we need to create the smallest heading?
