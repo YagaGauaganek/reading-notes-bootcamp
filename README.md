@@ -10,7 +10,7 @@
   - How do you create a link with a Markdown?
   - What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 - Growth Mindset
-  - What is Growth Mindset
+  - What is Growth Mindset?
 
 ***
 ## Brief Intro
@@ -18,9 +18,7 @@
 Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*. I am Culture Athropology and Social Science. For years I was working as na Admin in HR and then in Logistics. Last couple of years I have been working as IT Consultant managing with WMS (Warehouse Management Systems) projects and implementong them for clients all around the word.  
 My afterwork-passion is film photography. I use 35 mm camera (Pentax ME Super) and Medium Format Camera (Pentax 6x7). My portfolio can be found on [Instagram](https://www.instagram.com/jagagalganek/?hl=en).  
 Here is one of my fav photos:  
-
-
-![Portrait of Polly Unedited](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/bef54d9b-aac0-4c39-95f0-336d87629ce2)
+![Portrait of Polly edited](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/16514a68-dbc5-4173-9a78-a5b281adfe89)
 
  **And here is link to my [**GitHub Page**](https://github.com/YagaGauaganek)**
 
