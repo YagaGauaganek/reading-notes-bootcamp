@@ -13,7 +13,7 @@
 ***
 ## Brief Intro
 ## About
-Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*. I am Culture Athropology and Social Science. For years I was working as na Admin in HR and then in Logistics. Last couple of years I have been working as IT Consultant managing with WMS (Warehouse Management Systems) projects and implementong them for clients all around the word.
+Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*. I am Culture Athropology and Social Science. For years I was working as na Admin in HR and then in Logistics. Last couple of years I have been working as IT Consultant managing with WMS (Warehouse Management Systems) projects and implementong them for clients all around the word.  
 My afterwork-passion is film photography. I use 35 mm camera (Pentax ME Super) and Medium Format Camera (Pentax 6x7). My portfolio can be found on [Instagram](https://www.instagram.com/jagagalganek/?hl=en).  
 Here is one of my fav photos:  
 
