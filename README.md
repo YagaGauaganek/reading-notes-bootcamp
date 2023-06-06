@@ -3,19 +3,20 @@
 - Brief Intro
 - About
 - Read: 01 - Learning Markdown
- 1. What is Markdown?
- 2. Why do we use Markdown?
- 3. What symbol will create a heading Markdown?
- 4. When making text **bold** or *italicized* for emphasis, it is best practice to use which symbol?
- 5. How do you create a link with a Markdown?
- 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+ - What is Markdown?
+ - Why do we use Markdown?
+ - What symbol will create a heading Markdown?
+ - When making text **bold** or *italicized* for emphasis, it is best practice to use which symbol?
+ - How do you create a link with a Markdown?
+ - What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
 ***
 ## Brief Intro
 ## About
-Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*.
-
-!(){}
+Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*. I am Culture Athropology and Social Science. For years I was working as na Admin in HR and then in Logistics. Last couple of years I have been working as IT Consultant managing with WMS (Warehouse Management Systems) projects and implementong them for clients all around the word.
+My afterwork-passion is film photography. I use 35 mm camera (Pentax ME Super) and Medium Format Camera (Pentax 6x7). My portfolio can be found on [Instagram](https://www.instagram.com/jagagalganek/?hl=en)
+Here is one of my fav photos 
+!(Lauren looking at the window)[https://www.vogue.com/photovogue/photographers/207945/gallery#3534763]
 ## Read: 01 - Learning Markdown
 ### 1. What is Markdown?
 - lightweight markup language <br>
