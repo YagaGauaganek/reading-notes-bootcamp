@@ -8,7 +8,8 @@
 - cd ~: takes us back to the root directory 
 - mkdir: makes a new directory 
 - cd ..: Takes you back one on the command line 
-- rmdir: removes a directory
+- rmdir: removes a directory, only empty directory
+- man & --help: to know more about a command and how to use it. It shows the manual pages of the command. 
 ***
 - Better Comments 
 - Error Lens 
@@ -66,7 +67,7 @@ Reading-notes-bootcamp git: (main) code .
 - Brackets 
 - Sublime Text
 
-**Git cloning and pushing manual to be found [Here](https://pages.github.com/)**
+**Git cloning and pushing manual to be found [Here](https://pages.github.com/)**  
 [Basic Linux Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
 ### Questions and answers:
@@ -78,14 +79,15 @@ Reading-notes-bootcamp git: (main) code .
 *Additional*: Emmet - shorthand language, speeds up your code writing faster than you can
 imagine.
 2.	What do the following commands do?
-- pwd
-- ls
-- cd
-- mkdir
-- touch
+- pwd -in what directory you are/home directory of your user/where you are in git
+- ls -what files are in the directory we are in. Hidden files are to find by typing ~ls -a
+- cd -'change directory', that command goes to directory. Other similar commands: 'cd Downloads',  'cd ..' - use it to go back from a folder to the folder before that.
+- mkdir -creates folder or directory, e.g., mkdir DYI to create DIY directory
+- remeber to use '/' instead of space when used name has two or more elements
+- touch - use it ot create file
 3.	Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-- cd projects
-- mkdir new-project
-- touch new-project/newfile.md
-- cd ..
-- ls projects/new-project
+- cd projects - changes current directory to new directory 'projects'
+- mkdir new-project - creates new directory 'new-projects'
+- touch new-project/newfile.md - creates a file newfile.md within 'new-project'
+- cd .. - goes back from a folder to the folder before that
+- ls projects/new-project - will list all the files and directories in the 'projects/new-project directory'.
