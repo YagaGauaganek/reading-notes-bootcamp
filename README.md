@@ -17,9 +17,10 @@ Hi my name is Jaga. It sounds more like *Baga-Jaga*, than *Jagermaister*. I am C
 My afterwork-passion is film photography. I use 35 mm camera (Pentax ME Super) and Medium Format Camera (Pentax 6x7). My portfolio can be found on [Instagram](https://www.instagram.com/jagagalganek/?hl=en).  
 Here is one of my fav photos:  
 
-![Portrait of Polly unedited](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/1b1dc9cc-c0c3-46a7-b1d8-b645b4f80cf6)
 
- **And here is link to my [**GitHub Page**](https://yagagauaganek.github.io/reading-notes-bootcamp/)**
+![Portrait of Polly Unedited](https://github.com/YagaGauaganek/reading-notes-bootcamp/assets/135458354/bef54d9b-aac0-4c39-95f0-336d87629ce2)
+
+ **And here is link to my [**GitHub Page**](https://github.com/YagaGauaganek)**
 
 ## Read: 01 - Learning Markdown
 ### 1. What is Markdown?
