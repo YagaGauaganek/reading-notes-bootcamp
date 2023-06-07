@@ -9,27 +9,27 @@ Here is one of my fav photos:
 
 ## MERN Fullstack Bootcamp
 ### [102](https://github.com/YagaGauaganek/reading-notes-bootcamp/tree/main/102)
-- class-01 - [Markdown](/102/class-01.md)
-- class-02 - [Terminal/Ubuntu commands](102/Class-02.md)
-- class-03 - [HTML](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-03.md)
-- class-04 - [CSS](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-04.md)
-- class-05 - [Intro Javascript](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-05.md)
-- class-06 - [Programming with JavaScript](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-06.md)
-- class-07 - [Math, logic & computer architecture](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-07.md)
-- class-08 - [Career coaching](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-08.md)
+- class-01 - [Class:Markdown](/102/class-01.md)
+- class-02 - [Class:Terminal/Ubuntu commands](/102/Class-02.md)
+- class-03 - [Class:HTML](/102/class-03.md)
+- class-04 - [Class:CSS](/102/class-04.md)
+- class-05 - [Class:Intro Javascript](/102/class-05.md)
+- class-06 - [Class:Programming with JavaScript](/102/class-06.md)
+- class-07 - [Class:Math, logic & computer architecture](/102/class-07.md)
+- class-08 - [Class:Career coaching](/102/class-08.md)
 ### [201](https://github.com/YagaGauaganek/reading-notes-bootcamp/tree/main/201)
-- class-01 - 
-- class-02 - 
-- class-03 - 
-- class-04 - 
-- class-05 - 
-- class-06 - 
-- class-07 - 
-- class-08 -
-- class-09 - 
-- class-10 -
-- class-11 - 
-- class-12 -
-- class-13 - 
-- class-14 - 
-- class-15 -
+- class-01 - [Class 01](/201/class-01.md)
+- class-02 - [Class 02](/201/class-02.md)
+- class-03 - [Class 03](/201/class-03.md)
+- class-04 - [Class 04](/201/class-04.md)
+- class-05 - [Class 05](/201/class-05.md)
+- class-06 - [Class 06](/201/class-06.md)
+- class-07 - [Class 07](/201/class-07.md)
+- class-08 - [Class 08](/201/class-08.md)
+- class-09 - [Class 09](/201/class-09.md)
+- class-10 - [Class 10](/201/class-10.md)
+- class-11 - [Class 11](/201/class-11.md)
+- class-12 - [Class 12](/201/class-12.md)
+- class-13 - [Class 13](/201/class-13.md)
+- class-14 - [Class 14](/201/class-14.md)
+- class-15 - [Class 15](/201/class-15.md)
