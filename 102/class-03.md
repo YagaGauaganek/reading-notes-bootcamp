@@ -16,5 +16,5 @@
 3. What is it called when you give an element extra information?
 4. What is a semantic element?
 
-## Read 05: Design web pages with CSS
+
 
