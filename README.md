@@ -9,8 +9,8 @@ Here is one of my fav photos:
 
 ## MERN Fullstack Bootcamp
 ### [102](https://github.com/YagaGauaganek/reading-notes-bootcamp/tree/main/102)
-- class-01 - [Markdown](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-01.md)
-- class-02 - [Terminal/Ubuntu commands](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/Class-02.md)
+- class-01 - [Markdown](/102/class-01.md)
+- class-02 - [Terminal/Ubuntu commands](102/Class-02.md)
 - class-03 - [HTML](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-03.md)
 - class-04 - [CSS](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-04.md)
 - class-05 - [Intro Javascript](https://github.com/YagaGauaganek/reading-notes-bootcamp/blob/main/102/class-05.md)
