@@ -39,9 +39,53 @@
 - consists of a series of *elements*:
     - part of a webpage
     - may contain a data item or a chunk of text or an image, or perhaps nothing
-    - A typical element includes an opening tag with some attributes, enclosed text content, and a closing tag
+    - A typical element includes an opening tag with some *attributes*, enclosed text content, and a closing tag
 - enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, etc.
-
+2.  **Element**:
+- The main parts of element are as follows:
+    - The opening tag: This consists of the name of the element, wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect 
+    - The closing tag: This consists of the name of the element, wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect 
+    - The content: This is the content of the element (text, link, image, etc.)
+    - The element: The opening tag, the closing tag, and the content together comprise the element
+3. **Attributes**:
+- Contain extra information about the element that you don't want to appear in the actual content:
+    - <p class="editor note">My cat is very grumpy</p> - Here, *class* is the **attribute** name and *editor-note* is the **attribute** value.
+    - The class attribute allows you to give the element a non-unique identifier that can be used to target it with style information and other things
+- Attributes that set a value always have:
+    - A space between it and the element name (or the previous attribute, if the element already has one or more attributes)
+    - The attribute name followed by an equal sign
+    - The attribute value wrapped by opening and closing quotation marks
+    - **Note:** Simple attribute values that don't contain ASCII whitespace (or any of the characters " ' ` = < >)  > can remain unquoted, but it is recommended that you quote all attribute values, as it makes the code more consistent and understandable
+4. Nesting Elements:
+- elements inside other elements - here '<strong></strong> is neting element:
+    - <p>My cat is <strong>very</strong> grumpy.</p>
+- remember to open and close elements correctly so that they are clearly inside or outside one another
+5. Void elements:
+- have no content:
+    - <**img** src="images/firefox-icon.png" alt="My test image" />
+    - This contains two attributes, but there is no closing 
+6. Anatomy:
+- <!DOCTYPE html> - required preamble. Don't do much nowadays, but in 91/92 were meant to act as links to as set of rules; needed now to make sure your document behaves correctly
+- <html></html> - element; wraps all the content on the entire page and is sometimes known as the root element
+- <head></head> - element; acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers; 
+- <meta charset="utf-8"> - sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages; can help avoid some problems later on
+- <meta name="viewport" content="width=device-width"> - ensures the page renders at the width of viewport, preventing mobile browsers from rendering pages wider than the viewport and then shrinking them down
+- <title></title> - element; sets the title of your page
+- <body></body> - element; This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, etc.
+7. Images:
+- **Example**: <img src="images/firefox-icon.png" alt="My test image" />
+- embeds an image into our page in the position it appears
+- It does this via the src (source) attribute, which contains the path to our image file
+- *alt attribute* - alternative attribute; to  specify descriptive text for users who cannot see the image (visual impairment, someting went wrong and image is not displaying); alt text should provide the reader with enough information to have a good idea of what the image conveys
+8. Marking up text:
+- Headings - HTML contains 6 heading levels, although you'll commonly only use 3 to 4 at most:
+    - <h1>My main title</h1>
+    - <h2>My top level heading</h2>
+    - <h3>My subheading</h3>
+    - <h4>My sub-subheading</h4>
+- Paragraphs -  contain paragraphs of text:
+    - <p>This is a single paragraph</p>
+    
 ### Semantics
 
 ### Skim
