@@ -136,9 +136,16 @@ Semantic elements in HTML:
 
 ### Questions and Answers:
 1. What is HTML and why do we use it?
+HTML is:
+- HTML (HyperText Markup Language)
+- code that is used to structure a web page and its content
+- a markup language that defines the structure of your content
+We use to created structure of web page.
 2. What are the 3 main parts of an HTML element?
+Opening tag, conetent, closing tag
 3. What is it called when you give an element extra information?
+Attribute
 4. What is a semantic element?
-
-
-
+- gives the text it wraps around the role (or meaning)
+- clearly describes its meaning to both the browser and the developer
+- 'relating to meaning'
