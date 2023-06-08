@@ -235,16 +235,16 @@ if (confirmation != true) {
 }
 
 ### Questions and Answers:
-1. What are variables in JavaScript?
+1. What are variables in JavaScript?  
 Variables are 'containers' for storing data. 
 JavaScript Variables can be declared in 4 ways: 
 - Automatically; 
 - Using var - do not use it; 
 - Using let - allows you to declare variables that are limited to the scope of a block statement, or expression on which it is used; 'let' overwrite 'let'; 
 - Using const - use when value will never change; not changechable, constant variable.
-2. What does it mean to declare a variable?
+2. What does it mean to declare a variable?  
 It menas to cerate a variable, which cam be done by using varable mentioned above
-3. What is an “assignment” operator, and what does it do?
+3. What is an “assignment” operator, and what does it do?  
  Assigns the value  to a variable, a property. The result of an assignment expression is the value assigned to the operand.
-4. What is information received from the user called?
+4. What is information received from the user called?  
 It is a prompt
