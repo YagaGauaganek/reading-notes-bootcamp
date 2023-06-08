@@ -15,6 +15,6 @@ External CSS - with use of external sheet, each HTML page musy include a referan
 Internal CSS - to use if one, single HTML page has a unique style, it is define inside style elemnt, inside the head section.  
 Inline CSS - may be used to apply a unique style for a single element, to it,we add the style attribute to the relevant element. The style attribute can contain any CSS property.
 3. Write an example of a CSS rule that would give all <p> elements red text.  
-p {
-    colour: red;
-}
+p {  
+    colour: red;  
+}  
