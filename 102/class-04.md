@@ -1,7 +1,8 @@
 ## Read 05: Design Web pages with CSS
 
 ### What is CSS?
-
+CSS - Cascading Style Sheets
+Allows yu to create great-looking web pages.
 ### Skim
 - CSS Reference 
 - Meyers Web Reset Stylessheet
