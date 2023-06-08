@@ -80,16 +80,43 @@
 - *alt attribute* - alternative attribute; to  specify descriptive text for users who cannot see the image (visual impairment, someting went wrong and image is not displaying); alt text should provide the reader with enough information to have a good idea of what the image conveys
 8. Marking up text:
 - Headings - HTML contains 6 heading levels, although you'll commonly only use 3 to 4 at most:
-    - <<h1>>My main title<</h1>>
-    - <<h2>>My top level heading<</h2>>
-    - <<h3>>My subheading<</h3>>
-    - <<h4>>My sub-subheading<</h4>>
+    - # <<h1>>My main title<</h1>>
+    - ## <<h2>>My top level heading<</h2>>
+    - ### <<h3>>My subheading<</h3>>
+    - #### <<h4>>My sub-subheading<</h4>>  
 - Paragraphs -  contain paragraphs of text:  
     - <<p>>This is a single paragraph<</p>>
--       
-
+- Lists:
+    - Unordered lists <<ul>> - bullet points
+    - Ordered lists <<ol>> - numebered lists
+    - Each item inside the lists is put inside an <<li>> (list item) element
+- Links:
+    - to add a link, use element — <<a>> — "a" being the short form for "anchor"
+    - give the <<a>> element an **href** attribute (hypertext reference)
+    - add link (include https:// or http://)
+    - <<a href="https://www.mozilla.org/en-US/about/manifesto/">>Mozilla Manifesto<</a>>  
 
 ### Semantics
+> In programming, Semantics refers to the meaning of a piece of code 
+1. Semantics in HTML -In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+Semantic elements in HTML:
+-<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<form>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+1. Semantics in CSS
+1. Semantics in JavaScript
 
 ### Skim
 - Mozilla HTML Docs
