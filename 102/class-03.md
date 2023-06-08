@@ -30,7 +30,17 @@
 - Clarity
 - Confidence
 - Simplicity is key
+
 ### Mozilla HTML Basics
+1. What is HTML:
+- HTML (HyperText Markup Language)
+- code that is used to structure a web page and its content
+- a markup language that defines the structure of your content
+- consists of a series of *elements*:
+    - part of a webpage
+    - may contain a data item or a chunk of text or an image, or perhaps nothing
+    - A typical element includes an opening tag with some attributes, enclosed text content, and a closing tag
+- enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, etc.
 
 ### Semantics
 
