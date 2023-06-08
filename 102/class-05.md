@@ -129,3 +129,107 @@ if (myNum === 5) {
     const welcomeMsg = alert("Welcome to my page " + userName);
 
     document.write("Hello " + userName + " thank you for visiting my site");
+
+### Notes from Rich:
+// Types of variables
+
+// var is the original way to declare a variable and you can declare it like this
+var item1 = "Watch";
+console.log(item1);
+
+// let is the new way to declare a variable - 'let' variables can be re-assigned (changed)
+let item2 = "Mouse";
+console.log(item2);
+// const is a variable that can't be changed - it's value remains constant and can't be re-assigned (changed)
+const item3 = "Coca Cola";
+console.log(item3);
+
+// Types of data in JavaScript
+
+//String (text)
+("This is a string");
+
+// Number
+10;
+
+// Boolean (true or false)
+true;
+false;
+
+// Conditionals in JavaScript - comparing data to understand if they match
+
+// Equals
+
+// This uses double equals which only checks the value.
+if (item2 == "Mouse") {
+    console.log("Yeah, that's right");
+}
+
+if (0 == 0) {
+    console.log("Yep, 0 is 0");
+}
+
+// Because we are using double equals it will run the console.log because it isn't fussy about one of them being a string and the other a number
+if (0 == "0") {
+    console.log("Yep 0 is '0', I dont care about the data type");
+}
+
+// This uses triple equals which checks the value and the data type. Below we are comparing two 0's but one is a string and one is a number. This means the console.log won't run.
+if (0 === "0") {
+    console.log(true);
+}
+
+// Does not equal
+
+// This uses != which only checks the value
+if (item3 != "Coca Cola") {
+    console.log("Nah, thats coke mate");
+}
+
+if (0 != "0") {
+    console.log("Thats not 0");
+}
+
+// This uses !== which checks the value and data type
+if (0 !== "0") {
+    console.log("Thats a zero but it's a string, not a number");
+}
+
+// More than or less than
+
+// Less than comparsion
+// This will run the console log if 0 is smaller than 1
+if (0 < 1) {
+    console.log("0 is smaller than 1");
+}
+// This won't run the console log because one is not smaller than 0
+if (1 < 0) {
+    console.log(false);
+}
+
+// More than comparison
+// This will run the console log if 1 is greater than 0
+if (1 > 0) {
+    console.log("1 is greater than 0");
+}
+// This won't run the console log because 0 is not greater than 1
+if (0 > 1) {
+    console.log(false);
+}
+
+// Using a prompt
+// This will ask 'Please tell me your name'
+let username = prompt("Please tell me your name");
+
+// This will ask the user to confirm their name
+let confirmation = confirm("So I can call you " + username + "?");
+
+// This will console log 'Hi username' if they click OK on the confirmation
+if (confirmation == true) {
+    console.log("Thanks, Hi " + username);
+}
+
+// This will console log 'Sorry, I got your name wrong' if they click cancel on the confirmation
+if (confirmation != true) {
+    console.log("Sorry, I got your name wrong");
+}
