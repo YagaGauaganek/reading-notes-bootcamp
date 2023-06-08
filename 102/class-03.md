@@ -111,20 +111,20 @@
     - Semantic naming mirrors proper custom element/component naming
 
 Semantic elements in HTML:  
--<article>
--<aside>
--<details>
--<figcaption>
--<figure>
--<footer>
--<form>
--<header>
--<main>
--<mark>
--<nav>
--<section>
--<summary>
--<time>
+-<article>  
+-<aside>  
+-<details>  
+-<figcaption>  
+-<figure>  
+-<footer>  
+-<form>  
+-<header>  
+-<main>  
+-<mark>  
+-<nav>  
+-<section>  
+-<summary>  
+-<time>  
 
 2. Semantics in CSS  
 
