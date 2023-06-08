@@ -79,7 +79,7 @@
 - *alt attribute* - alternative attribute; to  specify descriptive text for users who cannot see the image (visual impairment, someting went wrong and image is not displaying); alt text should provide the reader with enough information to have a good idea of what the image conveys
 8. Marking up text:
 - Headings - HTML contains 6 heading levels, although you'll commonly only use 3 to 4 at most:
-    - <h1>My main title</h1>
+    - '<h1>My main title</h1>'
     - <h2>My top level heading</h2>
     - <h3>My subheading</h3>
     - <h4>My sub-subheading</h4>
