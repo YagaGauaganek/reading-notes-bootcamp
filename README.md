@@ -11,7 +11,7 @@ Here is one of my fav photos:
 ## MERN Fullstack Bootcamp
 ### [102](https://github.com/YagaGauaganek/reading-notes-bootcamp/tree/main/102)
 - class-01 - [Class:Markdown](/102/class-01.md)
-- class-02 - [Class:Terminal/Ubuntu commands](/102/Class-02.md)
+- class-02 - [Class:Terminal/Ubuntu commands](/102/class-02.md)
 - class-03 - [Class:HTML](/102/class-03.md)
 - class-04 - [Class:CSS](/102/class-04.md)
 - class-05 - [Class:Intro Javascript](/102/class-05.md)
