@@ -84,7 +84,8 @@
     - ## <<h2>>My top level heading<</h2>>
     - ### <<h3>>My subheading<</h3>>
     - #### <<h4>>My sub-subheading<</h4>>  
-- Paragraphs -  contain paragraphs of text:  
+
+- Paragraphs -  contain paragraphs of text:
     - <<p>>This is a single paragraph<</p>>
 - Lists:
     - Unordered lists <<ul>> - bullet points
@@ -97,30 +98,41 @@
     - <<a href="https://www.mozilla.org/en-US/about/manifesto/">>Mozilla Manifesto<</a>>  
 
 ### Semantics
-> In programming, Semantics refers to the meaning of a piece of code 
-1. Semantics in HTML -In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+> In programming, Semantics refers to the meaning of a piece of code  
 
-Semantic elements in HTML:
+1. Semantics in HTML:
+- In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+- HTML should be coded to represent the data that will be populated and not based on its default presentation styling
+- Some of the benefits from writing semantic markup are as follows:
+    - Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+    - Screen readers can use it as a signpost to help visually impaired users navigate a page
+    - Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+    - Suggests to the developer the type of data that will be populated
+    - Semantic naming mirrors proper custom element/component naming
+
+Semantic elements in HTML:  
 -<article>
-<aside>
-<details>
-<figcaption>
-<figure>
-<footer>
-<form>
-<header>
-<main>
-<mark>
-<nav>
-<section>
-<summary>
-<time>
-1. Semantics in CSS
-1. Semantics in JavaScript
+-<aside>
+-<details>
+-<figcaption>
+-<figure>
+-<footer>
+-<form>
+-<header>
+-<main>
+-<mark>
+-<nav>
+-<section>
+-<summary>
+-<time>
 
-### Skim
-- Mozilla HTML Docs
-- Mozilla HTML Elements
+2. Semantics in CSS  
+
+3. Semantics in JavaScript  
+
+### Skim  
+- [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+- [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
 
 ### Questions and Answers:
 1. What is HTML and why do we use it?
