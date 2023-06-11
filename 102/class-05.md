@@ -5,38 +5,43 @@ Java Script
 
 ### Java Script
 In recent years people have started to put JavaScript code on the server.  
-### ** Major parts of what we usually refer to as "JavaScript".**  
+### **Major parts of what we usually refer to as "JavaScript".**  
 **Editor or IDE**  
-Any editor can be used.
-**Embed or include**  
+Any editor can be used.  
+**Embed or include**   #
 Java Script can be directly embeded to HTML, or a line can be written in HTML with code that includes js script.  
-> In order to do that we add the 
-> // <script> opening and </script> closing tags. 
-> Between the two we write our JavaScript code.
+> In order to do that we add the  
+> // <<script>> opening and <</script>> closing tags. 
+> Between the two we write our JavaScript code.  
+
+
 **Input Output**
 - alert  
     - will show a pop-up in the browser with the text
-[Alert](/Images/alert.png)  
+![Alert](/Images/alert.png)  
 
 - document.write  
-[document.write](/Images/document.write.png)  
+![document.write](/Images/document.write.png)  
 
 - console.log  
-[console.log](/Images/console.log.png)  
+![console.log](/Images/console.log.png)  
 
 **Input - prompt and confirm**
 - prompt  
     - will show a pop-up window with the text provided as the first parameter and with a textbox the user can fill in  
     - when the user presses OK, the value in the text box will be returned by the prompt() function  
     - then we can use the document.write method to update the html with the text  
-[prompt](/Images/prompt.png)  
+
+![prompt](/Images/prompt.png)  
 
 - confirm
     - this pop-up is not really an input method
     - It allows the developer to ask a Yes/No question.  
     - Calling the confirm() function will show a pop-up window with the provided texts and with two buttons.  
-        > If the user presses OK the confirm() function will return true, if the user presses cancel or hits the ESC key, the function will return false
-[confirm](/Images/confirm.png)   
+
+> If the user presses OK the confirm() function will return true, if the user presses cancel or hits the ESC key, the function will return false  
+
+![confirm](/Images/confirm.png)   
 
 
 **Variables - we can declare them:**
