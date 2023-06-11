@@ -20,12 +20,12 @@ When we use a *break* statement, we can use it with a label
 4. How many times will a while loop execute?  
 Until the condtion is true:
 
-    while(answer != 16) {
-        answer = prompt ("Can you guess how many film cameras do I have?");
-        if (answer !=16){
-            alert("Try Again! But mind that number can change very soon!");
-        } else {
-            alert ("Congratulations! However it can be more soon ;)")
-        }
-    }
+    while(answer != 16) {  
+        answer = prompt ("Can you guess how many film cameras do I have?");  
+        if (answer !=16){  
+            alert("Try Again! But mind that number can change very soon!");  
+        } else {  
+            alert ("Congratulations! However it can be more soon ;)")  
+        }  
+    }  
 
