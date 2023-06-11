@@ -16,8 +16,8 @@ Java Script can be directly embeded to HTML, or a line can be written in HTML wi
 
 
 **Input Output**
-- alert  
-    - will show a pop-up in the browser with the text
+- alert  git 
+    - will show a pop-up in the browser with the text  
 ![Alert](/Images/alert.png)  
 
 - document.write  
