@@ -1,6 +1,6 @@
 ## Operatos and Loops
 
-[] - array
+[ ] - array
 "" - string
 ### [Expressions and Operators](https://canvas.instructure.com/courses/6895894/assignments/37682690/submissions/91737300)  
 > Focus only on Comparison operators and Assignment operators.  

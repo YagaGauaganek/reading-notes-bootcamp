@@ -1,11 +1,32 @@
 ## Read 05: Design Web pages with CSS
 
-### What is CSS?
-CSS - Cascading Style Sheets
-Allows yu to create great-looking web pages.
+### What is CSS?  
+> CSS - Cascading Style Sheets  
+- CSS allows you to create great-looking web pages  
+- Can be used for very basic document text styling - changing the color, size of headings and links  
+- Can be used to create a layout or effects like animation  
+### CSS Syntax  
+- rule-based language:
+    - you define the rules by specifying groups of styles that should be applied to particular elements or groups of elements on your web page
+> **Example**
+[CSS Colour](/Images/css%20colour.png)
+> - h1 is an selector which *selects* the HTML element to be styled
+> - we use pair of curly braces { }
+> - inside them we add declarations. it can be one and more. They take form of property and value pairs. **Property** is soecified before colon,
+>  **value** is after property gose after colon  
+
+### CSS Modules
+This language is broken into modules
+
+### [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+
+### CSS Specification
+> All web standards technologies (HTML, CSS, JavaScript, etc.) are defined in giant documents called specifications (or "specs"), which are published by  
+> standards organizations (such as the W3C, WHATWG, ECMA, or Khronos) and define precisely how those technologies are supposed to behave.  
+
 ### Skim
-- CSS Reference 
-- Meyers Web Reset Stylessheet
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
+- [Meyers Web Reset Stylessheet](https://meyerweb.com/eric/tools/css/reset/)
 
 ## Questions and Answers:
 1. What is the purpose of CSS?  
