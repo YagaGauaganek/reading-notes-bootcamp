@@ -1,8 +1,10 @@
-### HTML List
-Classes and IDs
-CSS colors
-Java Script confirm
-Conditional switch
+## Basics of HTML, CSS & JS  
+
+### HTML List  
+Classes and IDs  
+CSS colors  
+Java Script confirm  
+Conditional switch  
 
 #### Using colour in CSS - three ways
  - normal commend for colour: 
@@ -63,4 +65,40 @@ if there os a matcjh the associated block of code is executed
 if thre os mpo ,acy yje degait block of the code is exceuted
 - it can be added inside finction
 
-Use the story 
+Use the *story*
+
+### Questions and Answers
+1. Why is it important to use semantic elements in our HTML?  
+
+2. How many levels of headings are there in HTML?  
+
+3. What are some uses for the <sup> and <sub> elements?  
+
+4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?  
+
+5. What are ways we can apply CSS to our HTML?  
+
+6. Why should we avoid using inline styles?  
+
+7. Review the block of code below and answer the following questions:  
+    - What is representing the selector?  
+
+    - Which components are the CSS declarations?  
+
+    - Which components are considered properties?  
+
+11. What data type is a sequence of text enclosed in single quote marks?  
+
+12. List 4 types of JavaScript operators.  
+
+13. Describe a real world Problem you could solve with a Function.  
+
+14. An if statement checks a __ and if it evaluates to ___, then the code block will execute.  
+
+15. What is the use of an else if?  
+
+16. List 3 different types of comparison operators.  
+
+17. What is the difference between the logical operator && and ||?  
+
+## Things I want to know more about

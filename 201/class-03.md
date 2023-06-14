@@ -62,4 +62,33 @@ more often than not the 'for' loop is used to loop through an array
   >  OR
   >  ! [Screenshot of Accessibility Score] (LighthouseScore.png)
 
+### Questions ans Answers:  
+ 
+1. When should you use an unordered list in your HTML document?  
+When we want to creat list of items and the items don't have to be in particular order. Unordered list represented by bullet points.  
 
+2. How do you change the bullet style of unordered list items?  
+By using list-style-type. 
+
+3. When should you use an ordered list vs an unorder list in your HTML document?  
+Depending on propose we wont use data for. If list of items is not relevant then we can use unordered list. If we require sequential list of items we should use order list.   
+
+4. Describe two ways you can change the numbers on list items provided by an ordered list?  
+
+5. Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?  
+
+6. List and describe the four parts of an HTML elements box as referred to by the box model.  
+
+7. What data types can you store inside of an Array?  
+
+8. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?  
+
+9. List five shorthand operators for assignment in javascript and describe what they do.  
+
+10. Read the code below and evaluate the last expression and explain what the result would be and why.  
+
+11. Describe a real world example of when a conditional statement should be used in a JavaScript program.  
+
+12. Give an example of when a Loop is use  
+
+## Things I want to know more about
