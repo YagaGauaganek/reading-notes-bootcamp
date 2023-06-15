@@ -1,5 +1,8 @@
 ## HTML Links, JS Functions, and Intro to CSS Layout
+### Lab
 
+Work in pairs:
+- 
 ### Resources
 
 ### Questionas and Answers:
