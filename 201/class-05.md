@@ -1,11 +1,27 @@
 ## Images, Color, Text
-What is a real world use case for the alt attribute being used in a website?
-How can you improve accessibility of images in an HTML document?
-Provide an example of when the figure element would be useful in an HTML document.
-Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
-What image type would you use to display a screenshot on your website and why?
-Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
-Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
-What should you consider when choosing fonts for an HTML document?
-What do font-size, font-weight, and font-style do to HTML text elements?
-Describe two ways you could add spacing around the characters displayed in an h1 element.
+
+### Lab Class 05a - Function Test
+
+### Lab Class 05c  - CSS Diner 
+
+
+1. What is a real world use case for the alt attribute being used in a website?  
+
+2. How can you improve accessibility of images in an HTML document?  
+
+3. Provide an example of when the figure element would be useful in an HTML document.  
+
+4. Describe the difference between a gif image and an svg image, pretend you are
+explaining to an elder in your community.  
+
+5. What image type would you use to display a screenshot on your website and why?  
+
+6. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.  
+
+7. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?  
+
+8. What should you consider when choosing fonts for an HTML document?  
+
+9. What do font-size, font-weight, and font-style do to HTML text elements?  
+
+10. Describe two ways you could add spacing around the characters displayed in an h1 element.  
