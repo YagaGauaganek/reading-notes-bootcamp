@@ -20,6 +20,7 @@ explaining to an elder in your community.
 
 7. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?  
 
+tex box placement in div containter
 8. What should you consider when choosing fonts for an HTML document?  
 
 9. What do font-size, font-weight, and font-style do to HTML text elements?  

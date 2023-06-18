@@ -49,7 +49,7 @@ section ul {
 padding - creates size inside box
 margine - 
 
-> Check specificity - each selectopr have points, some  
+> Check specificity - each selectop have points, some  
 > selectors can overwrite others. *{} can be   
 > overwritten by >h1 {}
 
