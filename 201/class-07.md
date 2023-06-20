@@ -29,7 +29,7 @@ isGoodWithCats = true;
 - Prototype method:
      - start declaring constructor function
 - Prototypw inheritance
-### Questions and Asnwers:  
+### Questions and Answers:  
 
 1. Why should tables not be used for page layouts?  
 
