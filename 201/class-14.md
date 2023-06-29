@@ -7,10 +7,14 @@
 [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)  
 [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
 
+### Additional
+[Lottiefiles](https://lottiefiles.com/)  
+[Alternative to lottiefiles](https://alternativeto.net/software/lottie/)
+
 #### Transforms
 The transform property comes in two different settings:
 - two-dimensional  
-- three-dimensional. 
+- three-dimensional  
 Each of these come with their own individual properties and values.  
 
 #### Transitions & Animations  
