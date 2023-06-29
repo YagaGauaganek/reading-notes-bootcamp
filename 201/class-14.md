@@ -1,11 +1,11 @@
 ## CSS Transforms
 
-[CSS Transforms]()
-[CSS Transitions & Animations]()
-[8 simple CSS3 transitions that will wow your users]()
-[Pure CSS Bounce Animation]()
-[6 Buttons animated]()
-[CSS3 Animations: Keyframes]()
+[CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)  
+[CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)  
+[8 simple CSS3 transitions that will wow your users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)  
+[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)  
+[6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)  
+[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
 
 #### Transforms
 The transform property comes in two different settings:
