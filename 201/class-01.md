@@ -16,10 +16,23 @@ Allow you to develop features, fix bugs, or safely experiment with new ideas in 
 - go to VSCode make sure you are on the main branch  
 - git pull  
 
+### Chris's Demo  
+[Chris's Demo](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-01)  
+
 ### Reading
+[Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)  
+[How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)  
+[Website Design and Process](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)  
+[ JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)  
+[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)  
+[Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
+[HTML Document Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)  
+[Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)  
+[How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)  
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
+[What is JavaScript?](What is JavaScript?)  
 
 ### Answers and Questions  
-
 1. Compose a short poem describing how HTTP sends data between computers.  
 Don't know hoe to write a poem  
 I sigh  
