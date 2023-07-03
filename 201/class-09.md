@@ -1,6 +1,9 @@
-## Forms and JS Events
+## Forms and JS Events  
 
-#### Reading Reasources:  
+### Chris's Demo
+[Chris's Demo 201-09](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-09)  
+
+### Reading  
 [Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)  
 [Your first Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)  
 [How to structure a web form
@@ -11,7 +14,6 @@
 [Event Reference and listings](https://developer.mozilla.org/en-US/docs/Web/Events)  
 
 ### Questions and Answers
-
 1. Why are forms so important in web development?  
 
 2. When designing a form, what are some key things to keep in mind when it comes to user experience?  
@@ -26,3 +28,4 @@
 
 7. What is the difference between event bubbling and event capturing?  
 
+## Things I want to know more about  

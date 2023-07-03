@@ -32,9 +32,19 @@ isGoodWithCats = true;
     - allows us to create a method outside of constructor function
 - Prototype method:
      - start declaring constructor function
-- Prototype inheritance (??)
-### Questions and Answers:  
+- Prototype inheritance (??)  
 
+### Chris's Demo
+[Chris's Demo 201-07](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-07)  
+
+### Reading  
+[Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)  
+[HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)  
+[Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)  
+[Object Prototypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)  
+[HTML Table Advanced Features and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)  
+
+### Questions and Answers:  
 1. Why should tables not be used for page layouts?  
 There is few reasons:  
 - Lack of Semantic Structure - making difficult for search engines and assitive technologies to understand the content    
@@ -81,3 +91,5 @@ Inheritance: Inheritance can be seen as the process of employees inheriting skil
 Methods and Properties: Just as positions within a company have specific tasks and abilities, objects in JavaScript can have methods and properties. These methods and properties can be seen as the skills and attributes associated with each position. Employees (objects) can access and use these methods and properties inherited from higher-level positions.
 
 By utilizing prototypes and inheritance, objects can inherit and share methods and properties, creating a hierarchical structure that promotes code reuse and organization, similar to how employees within a company inherit abilities and responsibilities from higher-level positions.
+
+## Things I want to know more about  

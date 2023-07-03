@@ -1,16 +1,5 @@
 ## CSS Transforms
 
-[CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)  
-[CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)  
-[8 simple CSS3 transitions that will wow your users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)  
-[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)  
-[6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)  
-[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
-
-### Additional
-[Lottiefiles](https://lottiefiles.com/)  
-[Alternative to lottiefiles](https://alternativeto.net/software/lottie/)
-
 #### Transforms
 The transform property comes in two different settings:
 - two-dimensional  
@@ -32,7 +21,22 @@ Animations:
 
 ### Lab
 Add new second page for chart
-use local storage to share data bewteen 2 html
+use local storage to share data bewteen 2 html  
+
+### Chris's Demo
+[Chris's Demo 201-14](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-14)  
+
+### Reading
+[CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)  
+[CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)  
+[8 simple CSS3 transitions that will wow your users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)  
+[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)  
+[6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)  
+[CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
+
+### Additional
+[Lottiefiles](https://lottiefiles.com/)  
+[Alternative to lottiefiles](https://alternativeto.net/software/lottie/)
 
 ### Question and Answers  
 1. What does a CSS transform allow the developer to do to an element?
@@ -82,4 +86,6 @@ I think that it will be very useful for my final project or/and my future projec
 - Image Zoom and Hover Effects,  
 - 3D Transformations and Galleries,  
 - Artistic Transitions and Animations,  
-- Custom Layouts and Compositions:
+- Custom Layouts and Compositions
+
+## Things I want to know more about  

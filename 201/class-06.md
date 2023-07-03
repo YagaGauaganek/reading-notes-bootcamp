@@ -88,6 +88,16 @@ Manipulating script with DOM by using document - two important elements to use:
     use an operator to reassign the value of totalDailyCookies based on the variable the stores the product of the number customer for the hour by the avgCookiesPerCust  
 - Your render method should invoke the the calcCustomersEachHour and then the calcCookiesEachHour as the first thing it does before doing any of the dom manipulation.  
 
+### Chris's Demo
+[Chris's Demo 201-06](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-06)  
+
+### Reading  
+[JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)  
+[Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
+[Understanding the problem domain is the hardest part of programming](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
+[What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b?gi=b5f289e30738)  
+
+### Questions and Answers  
 1. How would you describe an object to a non-technical friend you grew up with?  
 Object can be compared to a container that holds reletaed and relevant information and function together. As with similar real-life object has characteristics and functions, as in Javascript an object has properties and can perform actions. Flet's take real life object like a mobile phone. Its properties can be colour, brand, model, its action can be taking or making call, being able to use apps and so on, and so on. JS objects work in similar way, allowing us to organize and work with data in structured and convenient manner.  
 2. What are some advantages to creating object literals?  
@@ -138,3 +148,5 @@ const propertName = "name";
 - allows js to dinamically access and manipulate the elements, attributes and content of a web page  
 7. Briefly describe the relationship between the DOM and JavaScript.  
 avaScript interacts with the DOM by accessing, modifying, and responding to web page elements. It can retrieve elements, manipulate their properties and content, register event handlers, and update styles. This interaction allows JavaScript to create dynamic and interactive web pages.  
+
+## Things I want to know more about  

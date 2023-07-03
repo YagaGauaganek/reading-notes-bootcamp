@@ -11,9 +11,10 @@
 - more efficient way for  layout  
 - will allow to manipulate layout of the page (+css grid)
 
+### Chris's Demo
+[Chris's Demo 201-08](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-08)  
 
 ### Questions and Answers
-
 1. Flexbox is designed for one-dimensional content. Explain what this means.  
 it to handle layout and aligmnment of elemnts in a s single direction - horizontally/vertically. It focues on organizing content along row or column, but never both simultaneously. 
 > **Exercise** [Flexbox froggy](https://flexboxfroggy.com/)  
@@ -30,4 +31,5 @@ The main axis defines the primary direction of layout, and the cross axis repres
 3. How can using certain properties of flexbox negatively impact accessibility?  
 4. What are some advantages of using flexbox over float?  
 5. How does this topic connect with your long term goals?
-Bookmark and Review  
+
+## Things I want to know more about  

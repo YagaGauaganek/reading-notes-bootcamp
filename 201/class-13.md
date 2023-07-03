@@ -1,11 +1,5 @@
 ## Local storage
 
-### Reading List
-
-[Local Storage and How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)  
-[“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)
-[The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
-
 ### Lecture
 **json** - JavaScript Object Notation:
 - is a language that is commonly used for data storage and transfer
@@ -19,9 +13,19 @@
 3. Run a Lighthouse Accessbility report. Make necessary updates to your application based on the report to get your score above 80.
  - Add a screenshot of your score to your README.md file.
 
+### Chris's Demo
+[Chris's Demo 201-13](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-13)  
+
+### Reading  
+[Local Storage and How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)  
+[“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)
+[The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+
 ### Question and Answers  
 1. Why would a developer use local storage for a web application?
 
 2. What information should not be stored in local storage?
 
 3. Local storage can store what type of data? How would you convert it to that type before storing?
+
+## Things I want to know more about  
