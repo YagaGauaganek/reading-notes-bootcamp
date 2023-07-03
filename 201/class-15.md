@@ -18,7 +18,7 @@
  **HTML:**  
  - sound in backhround (if possible - Julianna Barwick)  
 
- ### Resources  
+ ###  Resources  
 [10 Minimal Portfolio Examples for Web Developers Who Aren’t Good at Design](https://dev.to/scrimba/10-minimal-portfolio-examples-for-web-developers-who-arent-good-at-design-40gj)  
 [9 web developer portfolio examples to inspire your own](https://webflow.com/blog/web-developer-portfolio-examples)  
 [5 Coding Projects You Should Include in Your Front End Portfolio](https://www.freecodecamp.org/news/coding-projects-to-include-in-your-frontend-portfolio/)  
