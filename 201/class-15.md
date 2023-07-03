@@ -25,9 +25,10 @@
 [Project plan template](https://www.atlassian.com/software/confluence/templates/project-plan?TrelloTemplate=5c3e2fdb0fa92e43b849d838)  
 [How to Write JavaScript When You Don’t Know Where to Begin](https://carlanderson.xyz/how-to-write-javascript-when-you-dont-know-where-to-begin/#:~:text=Pseudo%2Dcode%20is%20an%20amalgamation,in%20a%20language%2Dagnostic%20way.)  
 [25 Web Developer Portfolio Examples to Take Inspiration From](https://www.hostinger.co.uk/tutorials/web-developer-portfolio) - **check Lauren Waller and Keita Yamada**
-rosiematheson
-[]()  
-[]()  
+
+[Portfolio Website Using HTML CSS And JAVASCRIPT ( Source Code)](https://www.codewithrandom.com/2022/09/16/portfolio-website-html-and-css-2/)  
+[W3Scholls - How to create a portfolio](https://www.w3schools.com/howto/howto_website_create_portfolio.asp)  
+[YT - Build & Deploy a Responsive Photography Portfolio Website HTML CSS & JavaScript - Complete Tutorial](https://www.youtube.com/watch?v=qKBLkcMj75M)  
 
 ### Inspo  
 [12 stunning photography portfolios examples](https://www.wix.com/blog/12-stunning-photography-websites?utm_source=google&utm_medium=cpc&utm_campaign=9852964004^115258513087&experiment_id=^^473625301907^^_DSA&gclid=CjwKCAjw-vmkBhBMEiwAlrMeFwIaM0Lf6quJZYhAq8DyySshB4p9CEL0O2meqNANa8dFY-O_nq-pZhoCHl0QAvD_BwE)  
@@ -40,3 +41,5 @@ rosiematheson
 ### Problems to solve:
 - vertical scroll  
 - drop down tab menu
+- how to add sound to the website if its somebody song?
+
