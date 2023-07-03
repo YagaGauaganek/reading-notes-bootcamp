@@ -17,7 +17,7 @@ Allow you to develop features, fix bugs, or safely experiment with new ideas in 
 - git pull  
 
 ### Chris's Demo  
-[Chris's Demo](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-01)  
+[Chris's Demo 201-01](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-01)  
 
 ### Reading
 [Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)  

@@ -67,6 +67,18 @@ if thre os mpo ,acy yje degait block of the code is exceuted
 
 Use the *story*
 
+### Chris's Demo
+[Chris's Demo 201-02](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-02)  
+
+### Readings  
+[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)  
+[HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)  
+[ HTML Advanced Text Formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)  
+[How CSS Is Structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)  
+[JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)  
+[Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)  
+[Bookmark and Review](https://chris.beams.io/posts/git-commit/)  
+
 ### Questions and Answers
 1. Why is it important to use semantic elements in our HTML?  
 

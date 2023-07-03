@@ -2,8 +2,20 @@
 ### Lab
 
 Work in pairs:
-- 
-### Resources
+- Work with Anna K.
+
+### Chris's Demo
+[Chris's Demo 201-04](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-04)  
+
+### Readings  
+[Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)  
+[Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)  
+[CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)  
+[CSS Layout: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)  
+[CSS Layout: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)  
+[Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)  
+[Functions – Reusable Blocks of Code](https://canvas.instructure.com/courses/6945431/discussion_topics/18389954?module_item_id=86320831)  
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)  
 
 ### Questionas and Answers:
 1. To create a basic link, we wrap text or other content inside what element?  

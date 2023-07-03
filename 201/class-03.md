@@ -62,8 +62,23 @@ more often than not the 'for' loop is used to loop through an array
   >  OR
   >  ! [Screenshot of Accessibility Score] (LighthouseScore.png)
 
+
+### Chris's Demo  
+[Chris's Demo 201-03](https://github.com/CSEAMAN3/201-d5-class-demos/tree/main/201-class-03)  
+
+### Readings 
+[Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[Ordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)  
+[Unordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)  
+[Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)  
+[The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)  
+[Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)  
+[Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)  
+[Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)  
+[Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)  
+[Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)  
+
 ### Questions ans Answers:  
- 
 1. When should you use an unordered list in your HTML document?  
 When we want to creat list of items and the items don't have to be in particular order. Unordered list represented by bullet points.  
 
