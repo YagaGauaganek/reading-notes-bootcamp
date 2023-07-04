@@ -99,7 +99,7 @@
 [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)  
 [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)  
 [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
-[404](https://codepen.io/kieranfivestars/pen/MYdQxX)
+[404](https://codepen.io/kieranfivestars/pen/MYdQxX)  
 **other**  
 [Lottiefiles](https://lottiefiles.com/)  
 [Alternative to lottiefiles](https://alternativeto.net/software/lottie/)
