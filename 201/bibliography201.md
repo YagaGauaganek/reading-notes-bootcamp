@@ -1,5 +1,5 @@
 ## Bibliography  
-1. 
+1.  
 [Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)  
 [How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)  
 [Website Design and Process](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)  
@@ -11,7 +11,7 @@
 [How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)  
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
 [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)  
-2. 
+2.  
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)  
 [HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)  
 [ HTML Advanced Text Formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)  
@@ -19,7 +19,7 @@
 [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)  
 [Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)  
 [Bookmark and Review](https://chris.beams.io/posts/git-commit/)  
-3. 
+3.  
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [Ordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)  
 [Unordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)  
@@ -30,7 +30,7 @@
 [Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)  
 [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)  
 [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)  
-4. 
+4.  
 [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)  
 [Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)  
 [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)  
@@ -39,7 +39,7 @@
 [Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)  
 [Functions – Reusable Blocks of Code](https://canvas.instructure.com/courses/6945431/discussion_topics/18389954?module_item_id=86320831)  
 [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)  
-5. 
+5.  
 [HTML Media](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)  
 [Using Images In HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)  
 [Common Image Types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)  
@@ -52,17 +52,17 @@
 [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
 [Understanding the problem domain is the hardest part of programming](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)  
 [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b?gi=b5f289e30738)  
-7. 
+7.  
 [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)  
 [Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)  
 [Object Prototypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)  
 [HTML Table Advanced Features and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)  
 [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)  
-8. 
+8.  
 [Learn CSS - Flexbox](https://web.dev/learn/css/flexbox/)
 [CSS Layout - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)  
 [Learn CSS - Layout](https://web.dev/learn/css/layout/)  
-9. 
+9.  
 [Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)  
 [Your first Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)  
 [How to structure a web form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
@@ -70,28 +70,28 @@
 [Introduction To Events.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)  
 [HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)  
 [Event Reference and listings](https://developer.mozilla.org/en-US/docs/Web/Events)  
-10. 
+10.  
 [What Went Wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)  
 [The JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools#the_javascript_debugger)  
 [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)  
 [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)  
-11. 
+11.  
 [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)  
 [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)  
 [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)  
 [Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)  
-12. 
+12.  
 [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 [Chart.js Documentation](https://www.chartjs.org/docs/latest/)
 [Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 [Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 [Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 [Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)  
-13. 
+13.  
 [Local Storage and How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)  
 [“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)  
-14. 
+14.  
 [The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)  
 [CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)  
@@ -100,6 +100,6 @@
 [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)  
 [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)  
 [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
-**other**
+**other**  
 [Lottiefiles](https://lottiefiles.com/)  
 [Alternative to lottiefiles](https://alternativeto.net/software/lottie/)
