@@ -17,3 +17,22 @@ Job Roles:
 
 
 Desire to life long learning
+
+
+if you wanted them:
+
+1. Javascript classes - components (class / functional) 
+2. States and Props in React
+3. Passing functions as Props
+4. Forms in React
+5. Putting it all together
+6. Asynchronous code and 3rd Party Apis
+7.  Express servers
+8.  Apis
+9.  Advanced Topics
+10.  Persistence
+11.  Mongo db (database)
+12.  Creating and deleting resources
+13.  Updating resources
+14. Final exam
+15. Final project kick off
