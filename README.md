@@ -35,7 +35,7 @@ Here is one of my fav photos:
 - class-14 - [Class 14](/201/class-14.md)
 - class-15 - [Class 15](/201/class-15.md)
 - [bibliography](/201/bibliography201.md)
-### [301](https://github.com/YagaGauaganek/reading-notes-bootcamp/tree/main/201)
+### [301](https://github.com/YagaGauaganek/reading-notes-bootcamp/tree/main/301)
 - class-01 - [Class 01](/301/01.md)
 - class-02 - [Class 02](/301/02.md)
 - class-03 - [Class 03](/301/03.md)
