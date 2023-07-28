@@ -41,7 +41,7 @@ Here is one of my fav photos:
 - class-03 - [Class 03](/301/03.md)
 - class-04 - [Class 04](/301/04.md)
 - class-05 - [Class 05](/301/05.md)
-- class-06 - [Class 05](/301/06.md)
+- class-06 - [Class 06](/301/06.md)
 - class-07 - [Class 07](/301/07.md)
 - class-08 - [Class 08](/301/08.md)
 - class-09 - [Class 09](/301/09.md)
