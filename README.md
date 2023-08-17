@@ -62,7 +62,7 @@ Here is one of my fav photos:
 
 ### [Next.js](https://github.com/YagaGauaganek/reading-notes-bootcamp/tree/main/Next.js)
 
-- start - [start](/start.md)
+- start - [start](Next.js/start.md)
 - demos - [demo list](Next.js/demoList.md)
 - notes-01 - [notes 01](/Next.js/notes-01.md)
 - lab-d-01 - [labs day 01](/Next.js/labs-d-01.md)
