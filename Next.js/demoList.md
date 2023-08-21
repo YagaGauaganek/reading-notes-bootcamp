@@ -11,3 +11,5 @@
 9. 07 - [demo 07](https://github.com/Tech-Educators/nextjs-02/tree/main/class-07/demo)
 10. 08 - [walking-skeleton](https://github.com/Tech-Educators/nextjs-02/tree/main/class-08/walking-skeleton)
 11. 09 - [demo 09](https://github.com/Tech-Educators/nextjs-02/tree/main/class-09/demo)
+12. 10 - [demo 10] - folder is not opening
+13. 11 - [demo 11](https://github.com/Tech-Educators/nextjs-02/tree/main/class-11/demo)
