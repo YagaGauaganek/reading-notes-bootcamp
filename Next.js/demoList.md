@@ -13,3 +13,6 @@
 11. 09 - [demo 09](https://github.com/Tech-Educators/nextjs-02/tree/main/class-09/demo)
 12. 10 - [demo 10] - folder is not opening
 13. 11 - [demo 11](https://github.com/Tech-Educators/nextjs-02/tree/main/class-11/demo)
+14. 12 - [demo 12](https://github.com/Tech-Educators/nextjs-02/tree/main/class-12/demo)
+15. 13 - [demo 13](https://github.com/Tech-Educators/nextjs-02/tree/main/class-13/demo)
+16. 14 - [demo 14](https://github.com/Tech-Educators/nextjs-02/tree/main/class-14/demo)
