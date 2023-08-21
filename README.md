@@ -74,3 +74,7 @@ Here is one of my fav photos:
 - lab-d-04 - [labs day 04](/Next.js/labs-d-04.md)
 - notes-05 - [notes 05](/Next.js/notes-05.md)
 - lab-d-05 - [labs day 05](/Next.js/labs-d-05.md)
+- notes-06 - [notes 06](/Next.js/notes-06.md)
+- lab-d-06 - [labs day 06](/Next.js/labs-d-06.md)
+- notes-07 - [notes 07](/Next.js/notes-07.md)
+- lab-d-07 - [labs day 07](/Next.js/labs-d-07.md)
